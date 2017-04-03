@@ -1,0 +1,36 @@
+{
+  "layouts": {
+    "layout01": {
+      "top": {
+        "viewType": "grid",
+        "content": [
+          "News 1",
+          "News 2",
+          "News 3",
+          "News 4",
+          "News 5"
+        ]
+      },
+      "bottom1": {
+        "viewType": "list",
+        "content": [
+          "Event 1",
+          "Event 2",
+          "Event 3"
+        ]
+      },
+      "bottom2": {
+        "viewType": "list",
+        "content": [
+          "Task 1",
+          "Task 2",
+          "Task 3",
+          "Task 4",
+          "Task 5",
+          "Task 6"
+        ]
+      }
+    },
+    "layout02": {}
+  }
+}
